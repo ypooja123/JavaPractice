@@ -39,8 +39,6 @@ public class extendReport {
 		System.out.println(driver.getTitle());
 		driver.close();
 		test.fail("Results do not match");
-		test.fail("Results do not match1");
-		test.fail("Results do not match2");
 		extend.flush();
 		
 	}
