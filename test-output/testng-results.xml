@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14000" started-at="2020-06-17T15:11:51 IST" finished-at="2020-06-17T15:12:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14000" started-at="2020-06-17T15:11:51 IST" finished-at="2020-06-17T15:12:05 IST">
+      <class name="com.extend.reports.ExtendReport.extendReport">
+        <test-method status="PASS" signature="getExtendReport()[pri:0, instance:com.extend.reports.ExtendReport.extendReport@1e6d1014]" name="getExtendReport" is-config="true" duration-ms="250" started-at="2020-06-17T15:11:51 IST" finished-at="2020-06-17T15:11:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getExtendReport -->
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.extend.reports.ExtendReport.extendReport@1e6d1014]" name="getData" duration-ms="13705" started-at="2020-06-17T15:11:52 IST" finished-at="2020-06-17T15:12:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.extend.reports.ExtendReport.extendReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
